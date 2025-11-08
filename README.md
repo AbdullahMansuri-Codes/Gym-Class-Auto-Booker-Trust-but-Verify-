@@ -39,5 +39,5 @@ After booking, the script automatically checks the “My Bookings” page and ma
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/gym-class-auto-booker.git
+git clone https://github.com/AbdullahMansuri-Codes/gym-class-auto-booker.git
 cd gym-class-auto-booker
